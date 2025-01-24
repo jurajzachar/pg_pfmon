@@ -1,6 +1,6 @@
 # About
 This project is a simple tool to proactively monitor utilization of PostgreSQL database with `pg_stats` extension.
-It has been developed off the back of work done by Dmitry Romanoff, who has written a great article on [the subject]()
+It has been developed off the back of work done by Dmitry Romanoff, who has written a great article on [the subject](
 https://medium.com/@dmitry.romanoff/proactive-postgresql-database-s-performance-scanner-9f1cad5c2c0f).
 
 # Build
