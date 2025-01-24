@@ -1,0 +1,7 @@
+.env
+.venv
+.idea
+build
+.pytest.cache
+.coverage
+source.sh
